@@ -10,5 +10,4 @@ print(f"Elf number {best_elf} is carrying the most calories with a total of {mos
 best_three = sorted_elves_calories[-3:]
 second_helf = elves_calories.index(best_three[1]) + 1
 third_helf = elves_calories.index(best_three[0]) + 1
-
 print(f"Elfs {best_elf}, {second_helf} and {third_helf} are carrying a total of {sum(best_three)} calories")
