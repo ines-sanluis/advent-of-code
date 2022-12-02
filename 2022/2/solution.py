@@ -14,7 +14,7 @@ games = [map(int, game.split()) for game in games]
 score_1 = 0
 score_2 = 0
 for game in games:
-    [their_move, my_move] = list(game)
+    their_move, my_move = game
     # Part 1
     if my_move == their_move: score_1 += 3 # draw
     elif my_move == (their_move + 1) % 3: score_1 += 6 # win
