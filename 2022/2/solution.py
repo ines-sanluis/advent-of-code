@@ -18,11 +18,11 @@ for game in games:
     # Part 1
     if my_move == their_move: score_1 += 3 # draw
     elif my_move == (their_move + 1) % 3: score_1 += 6 # win
-    score_1 += my_move + 1
+    score_1 += my_move + 1 # lose
     # Part 2 -> second column is not my move but the match result
     if my_move == 0: score_2 += (their_move - 1) % 3 # lose
     elif my_move == 2: score_2 += 6 + (their_move + 1) % 3 # win
-    else: score_2 += 3 + their_move
+    else: score_2 += 3 + their_move # draw
     score_2 += 1
 
 # Answers
