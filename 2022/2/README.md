@@ -54,3 +54,8 @@ Following the Elf's instructions for the second column, what would your total sc
 ## Solution
 
 `cd 2022/2 && python3 solution.py`
+
+## Something I learnt
+This was my first time using method `maketrans` to create a mapping table and using it with `translate()` method to replace specified characters.
+
+
