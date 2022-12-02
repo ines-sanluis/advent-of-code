@@ -10,4 +10,4 @@ Install [Python](https://www.python.org/)
 
 ## 2022
 
-[Day 1: Calorie Counting](2022/1/README.md)
+[Day 1: Calorie Counting](2022/1/README.md) (Python)
