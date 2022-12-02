@@ -3,8 +3,9 @@
 - [Day 2: Rock Paper Scissors](#day-2-rock-paper-scissors)
   - [Puzzle](#puzzle)
     - [Part One](#part-one)
-  - [Part Two](#part-two)
+    - [Part Two](#part-two)
   - [Solution](#solution)
+
 
 ## Puzzle
 
