@@ -11,8 +11,7 @@ replacements = {
 games = raw_input.translate(raw_input.maketrans(replacements)).split("\n")
 games = [map(int, game.split()) for game in games]
 
-score_1 = 0
-score_2 = 0
+score_1, score_2 = 0, 0
 for game in games:
     their_move, my_move = game
     # Part 1
