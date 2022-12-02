@@ -57,6 +57,6 @@ Following the Elf's instructions for the second column, what would your total sc
 
 ## Lessons learnt
 - This was my first time using method `maketrans` to create a mapping table and using `translate()` to replace specified characters.
-- Pay attention! Rock wins over scissors 😅. Struggled a bit at the beggining as I assumed Scissors > Paper > Rock which is not how the game works.
+- Pay attention! Rock wins over scissors 😅. Struggled a bit in the beggining as I assumed Scissors > Paper > Rock which is not how the game works.
 
 
