@@ -1,4 +1,3 @@
-
 raw_input = open("input.txt").read()
 replacements = {
     "A": "0",
