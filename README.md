@@ -11,3 +11,4 @@ Install [Python](https://www.python.org/)
 ## 2022
 
 [Day 1: Calorie Counting](2022/1/README.md) (Python)
+[Day 2: Rock Paper Scissors](2022/2/README.md) (Python3)
