@@ -68,4 +68,4 @@ In how many assignment pairs do the ranges overlap?
 
 ## Solution
 
-`cd 2022/4 && python3 solution.py`
+`cd 2022/4 && python solution.py`
