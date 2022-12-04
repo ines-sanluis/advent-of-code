@@ -17,5 +17,5 @@ for pairs in assignments:
         overlaps += 1
 
 # Answers
-print(f"In {fully_contained} assignment pairs does one range fully contain the other")
+print(f"In {fully_contained} assignment pairs one range fully contains the other")
 print(f"The ranges overlap in {overlaps} assignments")
