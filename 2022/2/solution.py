@@ -1,4 +1,3 @@
-raw_input = open("input.txt").read()
 replacements = {
     "A": "0",
     "B": "1",
@@ -9,6 +8,8 @@ replacements = {
 }
 draw_points = 3
 win_points = 6
+
+raw_input = open("input.txt").read()
 games = raw_input.translate(raw_input.maketrans(replacements)).split("\n")
 games = [map(int, game.split()) for game in games]
 

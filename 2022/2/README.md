@@ -5,7 +5,7 @@
     - [Part One](#part-one)
     - [Part Two](#part-two)
   - [Solution](#solution)
-
+  - [Lessons learnt](#lessons-learnt)
 
 ## Puzzle
 
@@ -54,3 +54,9 @@ Following the Elf's instructions for the second column, what would your total sc
 ## Solution
 
 `cd 2022/2 && python3 solution.py`
+
+## Lessons learnt
+- This was my first time using method `maketrans` to create a mapping table and using `translate()` to replace specified characters.
+- Pay attention! Rock wins over scissors 😅. Struggled a bit in the beggining as I assumed Scissors > Paper > Rock which is not how the game works.
+
+
