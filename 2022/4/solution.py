@@ -12,7 +12,7 @@ for pairs in assignments:
     # Part One
     if first_range.issubset(second_range) or second_range.issubset(first_range): # if one of the ranges is a subset of the other then they are fully contained
         fully_contained += 1
-    # Part two
+    # Part Two
     if len(first_range & second_range) > 0: # if the intersection has at least one element then ranges overlap
         overlaps += 1
 
