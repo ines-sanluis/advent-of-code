@@ -19,3 +19,5 @@ Install [Python](https://www.python.org/)
 [Day 4: Camp Cleanup](2022/4/README.md) (Python3)
 
 [Day 5: Supply Stacks](2022/5/README.md) (Python3)
+
+[Day 6: Tuning Trouble](2022/6/README.md) (Python3)
