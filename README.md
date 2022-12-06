@@ -16,4 +16,6 @@ Install [Python](https://www.python.org/)
 
 [Day 3: Rucksack Reorganization](2022/3/README.md) (Python3)
 
-[Day 4: Camp Cleanup](2022/4/README.md) (Python)
+[Day 4: Camp Cleanup](2022/4/README.md) (Python3)
+
+[Day 5: Supply Stacks](2022/5/README.md) (Python3)
