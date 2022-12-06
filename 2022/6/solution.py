@@ -1,8 +1,8 @@
-def get_start(datastream, packet_size):
+def get_start(datastream, size):
     for i in range(len(datastream)):
-        sequence = datastream[i : i + packet_size]
-        if len(set(sequence)) == packet_size:
-            return i + packet_size
+        sequence = datastream[i : i + size]
+        if len(set(sequence)) == size:
+            return i + size
 
 datastream = open("input.txt").read()
 # Part One
